@@ -4,10 +4,10 @@ The following is my study path for the AWS Certified Solutions Architect Associa
 
 - Learning Phase:
     - [A Cloud Guru](https://acloud.guru/learn/aws-certified-solutions-architect-associate) - I completed the Solutions Architect Associate course and associated labs. They were very useful primer for what to expect on the exam but from what I gathered, taking the course alone isn't enough to pass the exam.
-    - [AWS Documentation](https://docs.aws.amazon.com/) - As I went through this course, I also made sure to bookmark relevant documentation from the AWS official site. For example, when I learned about the CloudFront service, I would skim through the [developer guide](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) as well as the [FAQs](https://aws.amazon.com/cloudfront/faqs/).
+    - [AWS Documentation](https://docs.aws.amazon.com/) - As I went through this course, I also made sure to bookmark relevant documentation from the AWS official site. For example, when I learned about the CloudFront service, I would skim through the [developer guide](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) as well as the [FAQs](https://aws.amazon.com/cloudfront/faqs/). I personally found it useful to store my bookmarks in a hierarchy the made sense
             <div align="center">
               <img src="./img/aws_bookmarks.png" width="500">
-              <p> I personally found it useful to store my bookmarks in a hierarchy the made sense</p>
+              <p> </p>
             </div>
     - [AWS Well Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) - I read through this whitepaper which covered the Five Pillars & Design Principles of a Well Architecured Framework in AWS. This paper was useful when preparing for the scenario-based questions on the actual exam.
 - Exam Preparation:
