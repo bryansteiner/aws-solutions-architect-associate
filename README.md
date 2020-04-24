@@ -10,7 +10,7 @@ The following is my study path for the AWS Certified Solutions Architect Associa
             </div>
     - [AWS Well Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) - I read through this whitepaper which covered the Five Pillars & Design Principles of a Well Architecured Framework in AWS. This paper was useful when preparing for the scenario-based questions on the actual exam.
 - Exam Preparation:
-    - [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/) - Within a couple of weeks of finishing the course, I rewatched the A Cloud Guru summary video and retook the quizzes. Then I went through cheat sheets from [Tutorials Dojo](https://tutorialsdojo.com/)
+    - [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/) - Within a couple of weeks of finishing the course, I rewatched the A Cloud Guru summary videos and retook the quizzes. Then I went through cheat sheets from [Tutorials Dojo](https://tutorialsdojo.com/)
         - I found these cheatsheets to be a very concise version of the documentation I referred to earlier and this helped to speed up my prep time.
     - [Exam Readiness](https://www.aws.training/Details/Curriculum?id=20685) - In the week before the exam, I took this official AWS course to test my preparedness. It greatly helped to understand the logistics of the exam and understanding the structure + question types.
     - Sample Questions:
@@ -18,7 +18,6 @@ The following is my study path for the AWS Certified Solutions Architect Associa
         - Newer version of the exam [SAA-C02](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate-Exam-Guide_v1.1_2019_08_27_FINAL.pdf)
     - Practice Exams:
         - [Official AWS Practice Exam](https://aws.amazon.com/certification/certification-prep/)
-        - [Jon Bonso's Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/) - I went ahead and purchased these practice exams even though there were mixed feelings about them online. I found them useful to cover knowledge gaps.
+        - [Jon Bonso's Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/) - I went ahead and purchased these practice exams even though there were mixed feelings about them online. I found them useful to cover knowledge gaps.
         - [Linux Academy Practice Exam](https://linuxacademy.com/course/aws-certified-solutions-architect-2019-associate-level/) - I used the 7 day free-trial and attempted the final practice exam.
         - [Whiz Labs Practice Exam](https://www.whizlabs.com/aws-solutions-architect-associate/) - I only attempted the Free Test with 20 questions.
-        - [Tutorials Dojo](https://www.whizlabs.com/aws-solutions-architect-associate/) - I did not use these practice exams but included it here for reference.
