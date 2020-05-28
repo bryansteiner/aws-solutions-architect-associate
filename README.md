@@ -1,6 +1,6 @@
 # Exam Study Path
 
-The following is my study path for the AWS Certified Solutions Architect Associate Exam (SAA-C02):
+The following is my study path for the **AWS Certified Solutions Architect Associate Exam (SAA-C02)**:
 
 - Learning Phase:
     - [A Cloud Guru](https://acloud.guru/learn/aws-certified-solutions-architect-associate) - I completed the AWS Certified Solutions Architect Associate 2020 course and associated labs. They were very useful primer for what to expect on the exam but from what I gathered, taking the course alone isn't enough to pass the exam.
