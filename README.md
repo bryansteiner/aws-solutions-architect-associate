@@ -4,7 +4,7 @@ The following is my study path for the AWS Certified Solutions Architect Associa
 
 - Learning Phase:
     - [A Cloud Guru](https://acloud.guru/learn/aws-certified-solutions-architect-associate) - I completed the AWS Certified Solutions Architect Associate 2020 course and associated labs. They were very useful primer for what to expect on the exam but from what I gathered, taking the course alone isn't enough to pass the exam.
-    - [AWS Documentation](https://docs.aws.amazon.com/) - As I went through this course, I also made sure to bookmark relevant documentation from the AWS official site. For example when I learning CloudFront, I would skim through the [developer guide](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) as well as the [FAQs](https://aws.amazon.com/cloudfront/faqs/). I personally found it useful to store my bookmarks in a hierarchy that made sense
+    - [AWS Documentation](https://docs.aws.amazon.com/) - As I went through this course, I also made sure to bookmark relevant documentation from the AWS official site. For example when learning CloudFront, I would skim through the [developer guide](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) as well as the [FAQs](https://aws.amazon.com/cloudfront/faqs/). I personally found it useful to store my bookmarks in a hierarchy that made sense
             <div align="center">
               <img src="./img/aws_bookmarks.png" width="500">
             </div>
